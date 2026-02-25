@@ -88,7 +88,7 @@ export function Sidebar({ activeView, onViewChange, isOpen, onClose }: SidebarPr
                 <ClipboardList className="h-5 w-5 text-sidebar-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-lg font-semibold text-sidebar-foreground">StaffTrack</h1>
+                <h1 className="text-lg font-semibold text-sidebar-foreground">Mintex Staffing</h1>
                 <p className="text-xs text-sidebar-muted">KPI Dashboard</p>
               </div>
             </div>

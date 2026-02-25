@@ -146,7 +146,7 @@ export function SettingsPage() {
                 {theme === 'dark' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
                 Appearance
               </CardTitle>
-              <CardDescription>Customize how StaffTrack looks</CardDescription>
+              <CardDescription>Customize how Mintex Staffing looks</CardDescription>
             </CardHeader>
             <CardContent>
               <RadioGroup value={theme} onValueChange={setTheme} className="flex gap-4">

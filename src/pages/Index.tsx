@@ -114,7 +114,7 @@ const Index = () => {
           <Button variant="ghost" size="icon" onClick={() => setSidebarOpen(true)}>
             <Menu className="h-6 w-6" />
           </Button>
-          <h1 className="font-semibold text-foreground">StaffTrack</h1>
+          <h1 className="font-semibold text-foreground">Mintex Staffing</h1>
         </div>
         <div className="p-4 sm:p-8">
           {/* Global Date Range Filter */}
